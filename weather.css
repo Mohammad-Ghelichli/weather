@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(89, 12, 161, 0.774);
+    position: relative;
+}
+.container{
+    position: absolute;
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    background-color: whitesmoke;
+    font-size: 28px;
+    border: 1px solid wheat;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 10px 1px;
+    
+    
+
+}
+.weather-container{
+    margin: 10px 0;
+    background-color: aquamarine;
+    
+}
+.void{
+    height: 100px;
+}
